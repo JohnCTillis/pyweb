@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+pyweb/__init__.py
+pyweb/flame.py
+pyweb/hello.py
+pywebmain.egg-info/PKG-INFO
+pywebmain.egg-info/SOURCES.txt
+pywebmain.egg-info/dependency_links.txt
+pywebmain.egg-info/requires.txt
+pywebmain.egg-info/top_level.txt
+tests/__init__.py

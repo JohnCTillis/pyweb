@@ -8,7 +8,7 @@ LONG_DESCRIPTION = 'A package that allows to simplify the process of building we
 
 # Setting up
 setup(
-    name="pyweb",
+    name="pywebmain",
     version=VERSION,
     author="Borat Baka",
     author_email="<edmachine@tutanota.com",
