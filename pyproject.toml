@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "pyweb"
-version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+name = "pywebmain"
+version = "0.0.1"
+description = "A simple helper library for flask python web development"
+authors = ["Ed Margias <edmachine@tutanota.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
