@@ -1,3 +1,3 @@
-./build
-./dist
-./pyweb.egg-info
+build
+dist
+pywebmain.egg-info
